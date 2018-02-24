@@ -1,0 +1,11 @@
+{
+  "Name":"Sitha",
+  "Salary":30000,
+  "IsManager": false,
+  "Location":["Banglore","Pune"],
+  "Address": {
+      "State":"Karnataka",
+      "Street": "Dental college rd",
+      "Pin": 560037
+  }
+}
